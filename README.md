@@ -15,11 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 3. Execute the **Feature**
  
 ## Test Exercise #1 (Automation)
-1. Create two BDD Cucumber scenarios (positive and negative scenarios)
-    a. In the google.com put hostmaker.com
-    b. After search successful, open hostmaker.com link
-    c. Put "Barkleys Hill, Bristol, UK" into address field and click Compare Packages
-    d. Verify that Essential, Handsfree and Plus options are displayed
+1. Create two BDD Cucumber scenarios (positive and negative scenarios)  
+    a. In the google.com put hostmaker.com  
+    b. After search successful, open hostmaker.com link  
+    c. Put "Barkleys Hill, Bristol, UK" into address field and click Compare Packages  
+    d. Verify that Essential, Handsfree and Plus options are displayed  
 
  For negative scenario pick any variations of previous 4 steps.   
 
